@@ -1,0 +1,6 @@
+py==1.4.12
+pytest==2.3.4
+pytest-cov==1.6
+requests>=2.0,<3.0
+six>=1.9,<2.0
+wheel

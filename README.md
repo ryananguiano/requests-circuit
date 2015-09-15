@@ -1,2 +1,2 @@
 # requests-circuit
-Circuit breaker for requests module
+A circuit breaker for Python requests

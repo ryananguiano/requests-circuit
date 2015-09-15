@@ -1,0 +1,9 @@
+*.pyc
+*.DS_Store
+*.egg
+*.egg-info/
+.coverage
+.python-version
+__pycache__/
+build/
+dist/
